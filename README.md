@@ -1,2 +1,4 @@
-# pokelikemenu
-Cheat Menu for Pokelike Browser Game
+```bash
+# Users will see a copy button here
+npm install your-package-name
+```
